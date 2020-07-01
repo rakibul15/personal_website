@@ -184,6 +184,7 @@ button{
     padding:20px 80px;
     border: none;
     margin-top:7%;
+    cursor: pointer;
 }
 
 button p{
